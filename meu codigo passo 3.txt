@@ -1,0 +1,53 @@
+# Projeto1-ivoaragao-aprendendoGit
+Tutorial para usar o Git e enviar arquivos para repositorios Github.
+//passo 3//
+
+aprendendo a fazer branch // branch é pegar um projeto e torna-lo paralelo ao projeto principal
+
+----------------------branch so serve quando estiver trabalhando em equipe ---------------------------
+
+git branch // mostra qual branch esta disponivel no momento
+
+git branch + nome // cria uma branch nova 
+
+git checkout + nome da branch  // para começar a trabalhar dentro da nova branch 
+
+git checkout master // volta a branch master
+
+git pull //vai trazer as atualizaçoes do servidor para sua maquina local
+
+git merge + nome da brach que vc vai puxar o codigo para branch master // uni o codigo na branch master, so faça isso depois de testar o codigo
+
+git push // atualiza o codigo 
+
+
+------------antes de fazer o git merge--------------
+
+faça:
+
+git pull //vai trazer as atualizaçoes do servidor para sua maquina local 
+
+isso vai trazer mais segurança ao seu codigo master
+
+-----------------------------------------------------
+
+git checkout -b + nome da nova branch + nome da branch que a nova branch vai ter a base //cria uma branch com base numa branch base
+
+apos criar nova linha de comando 
+
+git add .
+
+git status 
+
+git commit -m "criado + nome do novo arquivo criado"
+
+-------apos testar o codigo---------
+
+git checkout master // volta a branch master
+
+git pull
+
+git merge + nome da brach nova // uni as branch
+
+git push
+
