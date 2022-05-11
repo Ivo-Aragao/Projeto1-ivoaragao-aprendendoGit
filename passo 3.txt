@@ -1,0 +1,12 @@
+# Projeto1-ivoaragao-aprendendoGit
+Tutorial para usar o Git e enviar arquivos para repositorios Github.
+//passo 3//
+
+aprendendo a fazer branch // branch é pegar um projeto e torna-lo paralelo ao projeto principal
+
+git branch // mostra qual branch esta disponivel no momento
+
+git branch + nome // cria uma branch nova 
+
+git checkout + nome da branch  // para começar a trabalhar dentro da nova branch 
+
