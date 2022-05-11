@@ -9,3 +9,13 @@ ivo aragao
 ivobezerra
 
 git push //para enviar as atualizações
+
+git reflog // para vizualizar o historico, mostra as versoes adicionadas ate o momento, a versão mais atual fica no topo
+//git reflog vai mostrar o id do suas versoes
+
+git reset --hard + id escolhido//caso vc cometa um erro e queira voltar a uma versão anterios do seu codigo
+
+git reflog // mostra as versoes atualizadas novamente
+
+git reset -- hard + id escolhido //volta a versão escolhida pelo id
+
