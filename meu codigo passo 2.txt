@@ -1,0 +1,11 @@
+//passo 2//
+// caso modifique o codigo use:
+git add . 
+
+git status //para vizualizar se foi adicionada
+
+git commit -m "permitir cadastrar usuarios" // esta permitindo atualização
+ivo aragao
+ivobezerra
+
+git push //para enviar as atualizações
